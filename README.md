@@ -11,8 +11,8 @@ development time 16 months
 
 |   |  |
 |---|--|
-|solution logic |![database sample ](/ann1.png)| 
-|tool modules |![comparative sample ](/ann2.png)|
-|gui |![database sample ](/ann3.png)| 
-|ANN configuration |![comparative sample ](/ann4.png)|
-|prediction output|![database sample ](/ann5.png)| 
+|solution logic |![database sample ](source/images/ann1.png)| 
+|tool modules |![comparative sample ](source/images/ann2.png)|
+|gui |![database sample ](source/images/ann3.png)| 
+|ANN configuration |![comparative sample ](source/images/ann4.png)|
+|prediction output|![database sample ](source/images/ann5.png)| 
