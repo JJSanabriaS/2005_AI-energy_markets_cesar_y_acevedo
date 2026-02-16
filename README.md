@@ -4,9 +4,9 @@ Technical support for master thesis in electrical engineering (UIS) with title "
 
 development of a suite for design of neural networks for forecasting energy markets 
 
-client from colombia
-matlab
-lib temporal time series analysis, AI, ANN, sliding window
+client from colombia \
+matlab\
+lib temporal time series analysis, AI, ANN, sliding window\
 development time 16 months
 
 |   |  |
